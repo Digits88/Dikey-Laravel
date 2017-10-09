@@ -51,7 +51,7 @@ return [
         'public' => [
             'driver' => 'local',
             'root' => storage_path('app/public'),
-            'url' => env('APP_URL').'/composer/Bitfumes/storage/app',
+            'url' => env('APP_URL').'/composer/Dikey/storage/app',
             'visibility' => 'public',
         ],
 
